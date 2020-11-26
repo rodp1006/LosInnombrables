@@ -1,6 +1,14 @@
 # Los Innombrables
 
-### Foto
+### Logo de ITAM Chat
+
+### Integrantes
+
+- Andres Quevedo 181336
+- Francisco Gonzalez 
+- Pablo Ruz
+- Rodrigo Piedras
+
 
 ## Índice
 * [Arquitectura](Arquitectura.md)
